@@ -1,12 +1,9 @@
-I have learned machine translation for a long time; and used the OpenNMT to finish some projects on low resource conditions.
-despit that I am familiar with the RNN, transfomer, but rarely did I have the opportunity to implement an machine translation 
-all by myself.
+I have been studying machine translation for a long time and have used OpenNMT to complete some projects under low resource conditions. Despite being familiar with RNN and transformer, I have rarely had the opportunity to implement a machine translation entirely on my own.
 
-in this repo, I try to do it.
-The first one would be a basic level, use seq-to-seq architecture
-the second one is still a architecture, but use the attention system to connect the encoder and the decoder.
-the third one, maybe the last one is to use the transformers.
+In this repository, I am attempting to do just that. The first project will be at a basic level, using a seq-to-seq(RNN) architecture. The second will also use the same RNN architecture but will employ an attention system to connect the encoder and the decoder. The third, and potentially the final project, will utilize transformers.
 
-if I have the time I would try the statistic machine translation, let us see.
+If time allows, I would like to try statistical machine translation as well. Let's see how it goes.
 
-wish this repo would help the people who is interested in machine translation.
+I hope this repository will be beneficial to anyone interested in machine translation.
+
+I will make an new seq-to-seq architecture, but will make the rnn more deep, let's say 3 layers, to check the performance.
